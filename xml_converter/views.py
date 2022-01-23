@@ -1,7 +1,6 @@
 import os
 from xml.etree import ElementTree
 
-
 from django.http import JsonResponse
 from django.shortcuts import render
 from django.core.files.storage import FileSystemStorage
